@@ -6,10 +6,9 @@
 ### Author: Tanner Seramur
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [repo](https://github.com/TannerSeramur/02-classes-inheritance-fp)
+* [travis](https://www.travis-ci.com/TannerSeramur/02-classes-inheritance-fp)
+
 
 ### Modules
 #### `modulename.js`
